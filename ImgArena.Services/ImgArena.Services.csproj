@@ -4,4 +4,14 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="10.1.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ImgArena.DataStorage\ImgArena.DataStorage.csproj" />
+    <ProjectReference Include="..\ImgArena.Models\ImgArena.Models.csproj" />
+    <ProjectReference Include="..\ImgArena.Repositories\ImgArena.Repositories.csproj" />
+  </ItemGroup>
+
 </Project>

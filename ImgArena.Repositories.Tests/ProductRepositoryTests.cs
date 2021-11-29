@@ -1,8 +1,9 @@
 using NUnit.Framework;
 
-namespace ImgArena.Services.Tests
+namespace ImgArena.Repositories.Tests
 {
-    public class Tests
+    //todo unit test of repository
+    public class ProductRepositoryTests
     {
         [SetUp]
         public void Setup()
