@@ -1,0 +1,9 @@
+E:\Interview\ImgArena\ImgArena.DataStorage\bin\Debug\netcoreapp3.1\ImgArena.DataStorage.deps.json
+E:\Interview\ImgArena\ImgArena.DataStorage\bin\Debug\netcoreapp3.1\ImgArena.DataStorage.dll
+E:\Interview\ImgArena\ImgArena.DataStorage\bin\Debug\netcoreapp3.1\ImgArena.DataStorage.pdb
+E:\Interview\ImgArena\ImgArena.DataStorage\obj\Debug\netcoreapp3.1\ImgArena.DataStorage.csprojAssemblyReference.cache
+E:\Interview\ImgArena\ImgArena.DataStorage\obj\Debug\netcoreapp3.1\ImgArena.DataStorage.AssemblyInfoInputs.cache
+E:\Interview\ImgArena\ImgArena.DataStorage\obj\Debug\netcoreapp3.1\ImgArena.DataStorage.AssemblyInfo.cs
+E:\Interview\ImgArena\ImgArena.DataStorage\obj\Debug\netcoreapp3.1\ImgArena.DataStorage.dll
+E:\Interview\ImgArena\ImgArena.DataStorage\obj\Debug\netcoreapp3.1\ImgArena.DataStorage.pdb
+E:\Interview\ImgArena\ImgArena.DataStorage\obj\Debug\netcoreapp3.1\ImgArena.DataStorage.csproj.CoreCompileInputs.cache

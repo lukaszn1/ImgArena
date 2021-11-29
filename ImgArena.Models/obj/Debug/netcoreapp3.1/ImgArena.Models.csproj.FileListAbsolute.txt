@@ -1,0 +1,9 @@
+E:\Interview\ImgArena\ImgArena.Models\bin\Debug\netcoreapp3.1\ImgArena.Models.deps.json
+E:\Interview\ImgArena\ImgArena.Models\bin\Debug\netcoreapp3.1\ImgArena.Models.dll
+E:\Interview\ImgArena\ImgArena.Models\bin\Debug\netcoreapp3.1\ImgArena.Models.pdb
+E:\Interview\ImgArena\ImgArena.Models\obj\Debug\netcoreapp3.1\ImgArena.Models.csprojAssemblyReference.cache
+E:\Interview\ImgArena\ImgArena.Models\obj\Debug\netcoreapp3.1\ImgArena.Models.AssemblyInfoInputs.cache
+E:\Interview\ImgArena\ImgArena.Models\obj\Debug\netcoreapp3.1\ImgArena.Models.AssemblyInfo.cs
+E:\Interview\ImgArena\ImgArena.Models\obj\Debug\netcoreapp3.1\ImgArena.Models.csproj.CoreCompileInputs.cache
+E:\Interview\ImgArena\ImgArena.Models\obj\Debug\netcoreapp3.1\ImgArena.Models.dll
+E:\Interview\ImgArena\ImgArena.Models\obj\Debug\netcoreapp3.1\ImgArena.Models.pdb

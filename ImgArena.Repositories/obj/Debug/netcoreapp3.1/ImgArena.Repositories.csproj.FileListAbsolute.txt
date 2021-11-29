@@ -1,0 +1,12 @@
+E:\Interview\ImgArena\ImgArena.Repositories\bin\Debug\netcoreapp3.1\ImgArena.Repositories.deps.json
+E:\Interview\ImgArena\ImgArena.Repositories\bin\Debug\netcoreapp3.1\ImgArena.Repositories.dll
+E:\Interview\ImgArena\ImgArena.Repositories\bin\Debug\netcoreapp3.1\ImgArena.Repositories.pdb
+E:\Interview\ImgArena\ImgArena.Repositories\obj\Debug\netcoreapp3.1\ImgArena.Repositories.csprojAssemblyReference.cache
+E:\Interview\ImgArena\ImgArena.Repositories\obj\Debug\netcoreapp3.1\ImgArena.Repositories.AssemblyInfoInputs.cache
+E:\Interview\ImgArena\ImgArena.Repositories\obj\Debug\netcoreapp3.1\ImgArena.Repositories.AssemblyInfo.cs
+E:\Interview\ImgArena\ImgArena.Repositories\obj\Debug\netcoreapp3.1\ImgArena.Repositories.dll
+E:\Interview\ImgArena\ImgArena.Repositories\obj\Debug\netcoreapp3.1\ImgArena.Repositories.pdb
+E:\Interview\ImgArena\ImgArena.Repositories\bin\Debug\netcoreapp3.1\ImgArena.DataStorage.dll
+E:\Interview\ImgArena\ImgArena.Repositories\bin\Debug\netcoreapp3.1\ImgArena.DataStorage.pdb
+E:\Interview\ImgArena\ImgArena.Repositories\obj\Debug\netcoreapp3.1\ImgArena.Repositories.csproj.CoreCompileInputs.cache
+E:\Interview\ImgArena\ImgArena.Repositories\obj\Debug\netcoreapp3.1\ImgArena.Repositories.csproj.CopyComplete

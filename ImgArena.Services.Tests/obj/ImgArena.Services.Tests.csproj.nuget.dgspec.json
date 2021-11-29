@@ -1,0 +1,322 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\Interview\\ImgArena\\ImgArena.Services.Tests\\ImgArena.Services.Tests.csproj": {}
+  },
+  "projects": {
+    "E:\\Interview\\ImgArena\\ImgArena.DataStorage\\ImgArena.DataStorage.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Interview\\ImgArena\\ImgArena.DataStorage\\ImgArena.DataStorage.csproj",
+        "projectName": "ImgArena.DataStorage",
+        "projectPath": "E:\\Interview\\ImgArena\\ImgArena.DataStorage\\ImgArena.DataStorage.csproj",
+        "packagesPath": "C:\\Users\\Lukasz\\.nuget\\packages\\",
+        "outputPath": "E:\\Interview\\ImgArena\\ImgArena.DataStorage\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Lukasz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.12, )"
+            },
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[5.0.12, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Interview\\ImgArena\\ImgArena.Models\\ImgArena.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Interview\\ImgArena\\ImgArena.Models\\ImgArena.Models.csproj",
+        "projectName": "ImgArena.Models",
+        "projectPath": "E:\\Interview\\ImgArena\\ImgArena.Models\\ImgArena.Models.csproj",
+        "packagesPath": "C:\\Users\\Lukasz\\.nuget\\packages\\",
+        "outputPath": "E:\\Interview\\ImgArena\\ImgArena.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Lukasz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Interview\\ImgArena\\ImgArena.Repositories\\ImgArena.Repositories.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Interview\\ImgArena\\ImgArena.Repositories\\ImgArena.Repositories.csproj",
+        "projectName": "ImgArena.Repositories",
+        "projectPath": "E:\\Interview\\ImgArena\\ImgArena.Repositories\\ImgArena.Repositories.csproj",
+        "packagesPath": "C:\\Users\\Lukasz\\.nuget\\packages\\",
+        "outputPath": "E:\\Interview\\ImgArena\\ImgArena.Repositories\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Lukasz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "E:\\Interview\\ImgArena\\ImgArena.DataStorage\\ImgArena.DataStorage.csproj": {
+                "projectPath": "E:\\Interview\\ImgArena\\ImgArena.DataStorage\\ImgArena.DataStorage.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.12, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Interview\\ImgArena\\ImgArena.Services.Tests\\ImgArena.Services.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Interview\\ImgArena\\ImgArena.Services.Tests\\ImgArena.Services.Tests.csproj",
+        "projectName": "ImgArena.Services.Tests",
+        "projectPath": "E:\\Interview\\ImgArena\\ImgArena.Services.Tests\\ImgArena.Services.Tests.csproj",
+        "packagesPath": "C:\\Users\\Lukasz\\.nuget\\packages\\",
+        "outputPath": "E:\\Interview\\ImgArena\\ImgArena.Services.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Lukasz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "E:\\Interview\\ImgArena\\ImgArena.Services\\ImgArena.Services.csproj": {
+                "projectPath": "E:\\Interview\\ImgArena\\ImgArena.Services\\ImgArena.Services.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.5.0, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.12.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[3.16.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Interview\\ImgArena\\ImgArena.Services\\ImgArena.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Interview\\ImgArena\\ImgArena.Services\\ImgArena.Services.csproj",
+        "projectName": "ImgArena.Services",
+        "projectPath": "E:\\Interview\\ImgArena\\ImgArena.Services\\ImgArena.Services.csproj",
+        "packagesPath": "C:\\Users\\Lukasz\\.nuget\\packages\\",
+        "outputPath": "E:\\Interview\\ImgArena\\ImgArena.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Lukasz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "E:\\Interview\\ImgArena\\ImgArena.DataStorage\\ImgArena.DataStorage.csproj": {
+                "projectPath": "E:\\Interview\\ImgArena\\ImgArena.DataStorage\\ImgArena.DataStorage.csproj"
+              },
+              "E:\\Interview\\ImgArena\\ImgArena.Models\\ImgArena.Models.csproj": {
+                "projectPath": "E:\\Interview\\ImgArena\\ImgArena.Models\\ImgArena.Models.csproj"
+              },
+              "E:\\Interview\\ImgArena\\ImgArena.Repositories\\ImgArena.Repositories.csproj": {
+                "projectPath": "E:\\Interview\\ImgArena\\ImgArena.Repositories\\ImgArena.Repositories.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
